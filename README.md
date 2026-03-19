@@ -57,9 +57,10 @@ Calculation:
 ![image](https://github.com/kamaliv-1602/EXP-2/blob/main/WhatsApp%20Image%202026-03-19%20at%2019.38.02%20(2).jpeg?raw=true)
 
 Open circuit characteristics
-
+![image](https://github.com/kamaliv-1602/EXP-2/blob/main/WhatsApp%20Image%202026-03-19%20at%2019.55.03.jpeg?raw=true)
   
 Load Characteristics:
+![image](https://github.com/kamaliv-1602/EXP-2/blob/main/WhatsApp%20Image%202026-03-19%20at%2019.55.03%20(1).jpeg?raw=true)
  
 Result:
 The load test on separately excited generators and to obtain the characteristics was verified.
